@@ -21,6 +21,11 @@
   text-decoration: underline;
 }
 
-.active.danger {
+.primary {
+  color: greenyellow;
+}
+
+.danger {
   color: red;
 }
+
